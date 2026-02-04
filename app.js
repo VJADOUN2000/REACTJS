@@ -1,2 +1,4 @@
-export var a = 20;
- 
+var a = 50;
+
+
+export default a
