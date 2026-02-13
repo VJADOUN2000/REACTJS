@@ -8,3 +8,8 @@ What is JSX --> JAVASCRIPT XML
 JAVASCRIPT + HTML
 
 Making folder with vite
+
+
+Understand waht is eslint.config.js file:
+
+It help you made custom rule for you 
