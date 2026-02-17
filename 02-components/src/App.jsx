@@ -6,8 +6,8 @@ const App = () => {
 
   return (
     <div>
+     <Navbar/>     
      <Card/>
-     <Navbar/>
     </div>
   )
 }

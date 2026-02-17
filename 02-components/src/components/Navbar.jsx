@@ -3,7 +3,9 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-      Navbar
+      <div className="nav">
+        This is a simple navbar content
+      </div>
     </div>
   )
 }

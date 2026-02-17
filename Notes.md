@@ -13,3 +13,11 @@ Making folder with vite
 Understand waht is eslint.config.js file:
 
 It help you made custom rule for you 
+
+
+
+// To use same components mutiple times but with different data 
+
+
+Props drilling in react
+
