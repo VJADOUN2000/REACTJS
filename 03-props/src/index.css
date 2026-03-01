@@ -36,25 +36,13 @@ html, body{
 }
 
 .card p{
-<<<<<<< HEAD
   margin: 20px 0;
-=======
-  margin: 10px 20px;
->>>>>>> 7bf3ab585b0f3697f4cad82fc4a236fc30a83466
 }
 
 .card button{
   padding: 10px 20px;
-<<<<<<< HEAD
   background-color: white;
   color: black;
   border: none;
   border-radius: 5px;
 }
-=======
-  background-color: #FFF;
-  color: #111;
-  border: none;
-  border-radius: 5px;
-}
->>>>>>> 7bf3ab585b0f3697f4cad82fc4a236fc30a83466
