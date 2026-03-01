@@ -1,5 +1,6 @@
 *{
   margin: 0;
+<<<<<<< HEAD
   padding: 0;
   box-sizing: border-box;
   color: #fff;
@@ -12,6 +13,24 @@ html, body{
   background-color: #111;
 }
 
+=======
+  padding:0;
+  box-sizing: border-box;
+  color: #FFF;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+
+}
+
+body{
+  background-color: #111;
+}
+
+
+>>>>>>> 7bf3ab585b0f3697f4cad82fc4a236fc30a83466
 .parent{
   padding: 20px;
   display: flex;
@@ -20,6 +39,7 @@ html, body{
 }
 
 .card{
+<<<<<<< HEAD
   width: 250px;
   border: 1px solid white;
   padding: 10px;
@@ -31,18 +51,45 @@ html, body{
 .card img{
   height: 150px;
   width: 150px;
+=======
+  width:250px;
+  border: 2px solid white;
+  padding: 20PX;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #222;
+
+}
+
+
+.card img{
+  height: 140px;
+  width: 140px;
+>>>>>>> 7bf3ab585b0f3697f4cad82fc4a236fc30a83466
   object-fit: cover;
   border-radius: 50%;
 }
 
 .card p{
+<<<<<<< HEAD
   margin: 20px 0;
+=======
+  margin: 10px 20px;
+>>>>>>> 7bf3ab585b0f3697f4cad82fc4a236fc30a83466
 }
 
 .card button{
   padding: 10px 20px;
+<<<<<<< HEAD
   background-color: white;
   color: black;
   border: none;
   border-radius: 5px;
 }
+=======
+  background-color: #FFF;
+  color: #111;
+  border: none;
+  border-radius: 5px;
+}
+>>>>>>> 7bf3ab585b0f3697f4cad82fc4a236fc30a83466
