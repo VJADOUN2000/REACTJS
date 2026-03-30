@@ -1,1 +1,14 @@
 learn what is export and import and also types of export i.e., named and default (only take one value and call be call by any name)
+
+what is real Dom and virtual dom
+
+virtual Dom amke copy of real dom and only make change that part or component which are updated in real dom
+
+what is JSX (Javascript Xml)
+
+HTML + JavaScript
+
+example to create h1 in jsx we can use:
+
+Var h1 = <h1>Hello this is crated using JSX<h1>
+
