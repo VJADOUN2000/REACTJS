@@ -9,7 +9,7 @@ function card(props){
         <h1>Vikrant Singh</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam.</p>
         <button>View Profile</button>
-    </div>``
+    </div>
   )
 }
 
