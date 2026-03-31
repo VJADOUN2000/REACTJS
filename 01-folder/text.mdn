@@ -12,3 +12,8 @@ example to create h1 in jsx we can use:
 
 Var h1 = <h1>Hello this is crated using JSX<h1>
 
+
+We use vite to create react folder (Vite is a bundler used to creaate folder)
+
+
+
