@@ -7,6 +7,7 @@ const App = () => {
       <div className="card">
         <h1>Vikrant Singh</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <button>View Proile</button>
       </div>
     </div>
   )

@@ -27,3 +27,16 @@ html, body{
   display: flex;
   flex-wrap: wrap;
 }
+
+.card p{
+  margin: 10px 0;
+}
+
+.card button{
+  padding: 10px 20px;
+  color: #111;
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+
+}
