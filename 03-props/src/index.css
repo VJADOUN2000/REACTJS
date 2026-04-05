@@ -19,13 +19,21 @@ html, body{
   padding: 20px;
   text-align: center;
   border-radius: 10px;
-  background-color: #333;
+  background-color: #222;
 }
 
 .parent{
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card img{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  object-fit: cover;
 }
 
 .card p{
