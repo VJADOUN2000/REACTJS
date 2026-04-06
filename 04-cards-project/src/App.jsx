@@ -8,7 +8,7 @@ const App = () => {
       <div className="card">
         <div className="top">
           <img src="https://www.freeiconspng.com/uploads/amazon-icon-3.png" alt="" />
-          <button>Save <Bookmark /></button>
+          <button>Save <Bookmark size={10}/></button>
         </div>
         <div className="center">
             <h3>Amazon <span>5 Days ago</span></h3>
