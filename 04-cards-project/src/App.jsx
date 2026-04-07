@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className='parent'>
       <User name='Vikrant Singh'/>
-      <User name ={arr}/>
+      <User name ={arr[3]}/>
       <Card/> 
       <Card/>
       <Card/>
