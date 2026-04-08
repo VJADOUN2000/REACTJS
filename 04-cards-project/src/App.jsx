@@ -5,9 +5,9 @@ import User from './components/user'
 
 const App = () => {
 
-  const arr = [{ user: "Vikrant" }
-    , { user: "Aman" }
-    , { user: "Ajay" }
+  const arr = [{ user: "Vikrant", age: 24 }
+    , { user: "Aman", age: 25}
+    , { user: "Ajay", age: 25 }
   ];
 
 
