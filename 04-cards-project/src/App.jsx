@@ -5,11 +5,14 @@ import User from './components/user'
 
 const App = () => {
 
-  const arr =[45,7,56,48];
+  const arr =[{user: "Vikrant"},{user: "Aman"},{user: "Ajay"}];
+
+
+  arr.map(function(elem){
+      console.log(elem.user)
+  })
   return (
     <div className='parent'>
-      <User name='Vikrant Singh'/>
-      <User name ={arr[2]}/>
       <Card/> 
       <Card/>
       <Card/>
