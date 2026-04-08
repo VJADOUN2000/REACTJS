@@ -5,18 +5,21 @@ import User from './components/user'
 
 const App = () => {
 
-  const arr =[{user: "Vikrant"},{user: "Aman"},{user: "Ajay"}];
+  const arr = [{ user: "Vikrant" }
+    , { user: "Aman" }
+    , { user: "Ajay" }
+  ];
 
 
-  arr.map(function(elem){
-      console.log(elem.user)
+  arr.map(function (elem) {
+    console.log(elem.user)
   })
   return (
     <div className='parent'>
-      <Card/> 
-      <Card/>
-      <Card/>
-      <Card/>
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </div>
   )
 }
