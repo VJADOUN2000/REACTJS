@@ -5,24 +5,17 @@ import User from './components/user'
 
 const App = () => {
 
-  const arr = [{ user: "Vikrant", age: 24 }
-    , { user: "Aman", age: 25}
-    , { user: "Ajay", age: 25 }
-  ];
+  const arr =[10,20,45]  
 
 
-  arr.map(function (elem) {
-    console.log(elem.user)
-  })
   return (
     <div className='parent'>
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+       {arr.map(function(elem){
+          return <User name={elem}/>;
+       })}
+       
     </div>
   )
 }
 
 export default App
-App
