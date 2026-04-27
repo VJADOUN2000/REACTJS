@@ -1,0 +1,8 @@
+.btn{
+     background-color: purple;
+  width: fit-content;
+  padding: 10px 20px;
+  color: aliceblue;
+  border-radius: 5px;
+  margin: 8px;
+}
