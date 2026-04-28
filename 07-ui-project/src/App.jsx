@@ -2,11 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      <h1>dffdf</h1>
-    </div>
+    <div className='bg-red-500'>App</div>
   )
 }
 
 export default App
-Projects
