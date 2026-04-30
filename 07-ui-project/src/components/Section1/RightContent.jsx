@@ -2,8 +2,8 @@ import React from 'react'
 
 const RightContent = () => {
   return (
-    <div>
-      RightContent
+    <div className='h-full w-2/3 bg-blue-300'>
+      
     </div>
   )
 }
